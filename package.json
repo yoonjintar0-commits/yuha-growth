@@ -1,0 +1,1 @@
+{"name":"yuha-growth-map","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node build.mjs","check":"node --check app.js && node --check cloud.js"}}
